@@ -1,5 +1,7 @@
 package Duck;
 
+//Nakorn Boonprasong 6510405458
+
 public class DuckSimulator {
     int cooCount = 0;
     public static void main(String[] args) {

@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9717d9a3-9daa-4540-9950-0eaa82ebbe52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Duck.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/AbstractDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/CountingDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/DuckCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/DuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/DuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/Flock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/Goose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/GooseAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/Pigeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/PigeonAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/PoliteCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/PoliteDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/PoliteDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/QuackCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/Quackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/RedHeadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="9717d9a3-9daa-4540-9950-0eaa82ebbe52" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -63,7 +36,7 @@
     "Application.DuckSimulator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/6510405458/Year3/SoftwareEngineer/Duck",
@@ -114,7 +87,7 @@
       <updated>1721729502721</updated>
       <workItem from="1721800337128" duration="7862000" />
       <workItem from="1721832275912" duration="4063000" />
-      <workItem from="1721880443218" duration="3596000" />
+      <workItem from="1721880443218" duration="4022000" />
     </task>
     <servers />
   </component>
